@@ -4,7 +4,9 @@ body {
 }
 
 h1 {
-    color: chartreuse;
+    color: rgb(24, 58, 162);
+    font-size: 40px;
+    margin: 35px;
 }
 
 .oc {
@@ -71,4 +73,25 @@ h3 {
 
 .hk {
     color: rgb(21, 165, 151);
+}
+
+#wde {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
+
+b {
+    color: red;
+    margin-left: 40px;
+
+}
+
+h2 {
+    font-size: 27px;
+    color: rgb(233, 134, 13);
 }
