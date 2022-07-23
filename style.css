@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -19,6 +19,7 @@ section {
 .hw {
     width: 50%;
     padding-left: 7%;
+
 }
 
 .hw img {
@@ -39,4 +40,35 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.ei {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 22px;
+    border-radius: 6px;
+    box-shadow: 10px 10px 35px green;
+    border-left: 5px pink;
+
+}
+
+h3 {
+    color: rgb(170, 56, 15);
+}
+
+.Muslim area {
+    background-image: url(images/exp-bg.png);
+}
+
+.hh {
+    color: darkgoldenrod;
+}
+
+.hj {
+    color: royalblue;
+}
+
+.hk {
+    color: rgb(21, 165, 151);
 }
